@@ -8,10 +8,7 @@
 <p align="center">끊임없이 배우고 성장하는 개발자입니다. <br/> Passionate developer who learns and grows every day.</p>
 
 ---
-
-### 📌 주요 기술 | Main Skills
-
-#### 🛠 기술 스택 | Tech Stack
+### 🛠 기술 스택 | Tech Stack
 
 ##### 💻 프론트엔드 | Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
