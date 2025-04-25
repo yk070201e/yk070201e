@@ -8,7 +8,11 @@
 
 ### 📌 주요 기술 | Main Skills
 
-- HTML / CSS / JavaScript
+## 🛠 기술 스택
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - React / Tailwind CSS / Node.js
 - Photoshop / Adobe XD / Premiere Pro
 - MySQL / MongoDB / Firebase
@@ -38,8 +42,3 @@
 
 > **“작은 변화가 큰 성장을 만든다.”**  
 > “Small changes make great progress.”
-
-
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white)
