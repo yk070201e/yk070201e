@@ -17,20 +17,20 @@
 
 ### 🔧 자주 사용하는 언어 | Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yk070201e&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📂 대표 리포지토리 | Pinned Repositories
 
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=your-github-id&repo=project-portfolio&theme=tokyonight)](https://github.com/your-github-id/project-portfolio)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=your-github-id&repo=game-ui-design&theme=tokyonight)](https://github.com/your-github-id/game-ui-design)
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=yk070201e&repo=project-portfolio&theme=tokyonight)](https://github.com/yk070201e/project-portfolio)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=yk070201e&repo=game-ui-design&theme=tokyonight)](https://github.com/yk070201e/game-ui-design)
 
 ---
 
 ### 📈 GitHub 활동 통계 | GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yk070201e&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -39,3 +39,7 @@
 > **“작은 변화가 큰 성장을 만든다.”**  
 > “Small changes make great progress.”
 
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white)
