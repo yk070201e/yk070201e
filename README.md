@@ -38,9 +38,7 @@
 ---
 
 ### 📂 대표 리포지토리 | Pinned Repositories
-
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=yk070201e&repo=project-portfolio&theme=tokyonight)](https://github.com/yk070201e/project-portfolio)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=yk070201e&repo=game-ui-design&theme=tokyonight)](https://github.com/yk070201e/game-ui-design)
+[👉 포트폴리오 사이트 보러가기](https://spiffy-dango-2d6fa4.netlify.app/)
 
 ---
 
@@ -50,7 +48,7 @@
 
 ---
 
-### ✨ 한 줄 다짐 | Developer's Motto
+<!--### ✨ 한 줄 다짐 | Developer's Motto
 
 > **“작은 변화가 큰 성장을 만든다.”**  
-> “Small changes make great progress.”
+> “Small changes make great progress.”-->
