@@ -38,12 +38,9 @@
 
 ---
 
-### 📂 대표 리포지토리 | Pinned Repositories
+### 📁 대표 프로젝트 | Pinned Projects
 
-- [포트폴리오 사이트 바로가기](https://spiffy-dango-2d6fa4.netlify.app/)
-
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=yk070201e&repo=project-portfolio&theme=tokyonight)](https://github.com/yk070201e/project-portfolio)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=yk070201e&repo=game-ui-design&theme=tokyonight)](https://github.com/yk070201e/game-ui-design)
+[![Portfolio Site](https://img.shields.io/badge/포트폴리오_사이트-바로가기-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://spiffy-dango-2d6fa4.netlify.app/)
 
 ---
 
