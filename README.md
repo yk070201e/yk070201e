@@ -57,12 +57,4 @@
 
 ---
 
-<!-- 개발자 다짐 (선택사항) -->
-<!--
-### ✨ 개발자 다짐 | Developer's Motto
-
-> **“작은 변화가 큰 성장을 만든다.”**  
-> “Small changes make great progress.”
--->
-
 <!-- stellkr 카피 ㄴㄴ요 -->
