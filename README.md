@@ -42,7 +42,7 @@
 
 ### 📁 대표 프로젝트 | Pinned Projects
 
-[![Portfolio Site](https://img.shields.io/badge/포트폴리오_사이트-바로가기-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://680ba20f2ca814140623bb46--musical-platypus-d908cd.netlify.app/)
+[![Portfolio Site](https://img.shields.io/badge/포트폴리오_사이트-바로가기-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://yk070201e.kro.kr)
 
 ---
 
