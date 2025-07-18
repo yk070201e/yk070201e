@@ -5,7 +5,7 @@
 
 <h2 align="center">정윤기의 GitHub 프로필 | Jeong Yun Gi's GitHub Profile</h2>
 
-<p align="center">끊임없이 배우고 성장하는 개발자입니다. <br/> Passionate developer who learns and grows every day.</p>
+<p align="center">바이브 코딩을 통해 끊임없이 성장하는 개발자입니다 <br/> A developer who continuously grows through vibe coding</p>
 
 ---
 ### 🛠 기술 스택 | Tech Stack
