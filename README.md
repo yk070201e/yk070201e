@@ -48,7 +48,7 @@
 
 ### 📈 GitHub 활동 통계 | GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yk070201e&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=yk070201e&show_icons=true&cache_seconds=86400)
 
 ---
 ### 📫 연락처 ㅣ Contact Me
