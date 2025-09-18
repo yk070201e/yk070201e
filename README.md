@@ -48,7 +48,7 @@
 
 ### 📈 GitHub 활동 통계 | GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=yk070201e&show_icons=true&cache_seconds=86400)
+![stats](https://readme-stats-yk.vercel.app/api?username=yk070201e&show_icons=true&count_private=true&cache_seconds=43200)
 
 ---
 ### 📫 연락처 ㅣ Contact Me
