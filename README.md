@@ -36,7 +36,7 @@
 ### 🔧 자주 사용하는 언어 | Most Used Languages
 > GitHub의 공개 저장소 기준으로 가장 많이 사용한 언어입니다.
 
-![Top Langs](https://readme-stats-yk.vercel.app/api/top-langs/?username=yk070201e&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yk070201e&layout=compact&theme=tokyonight)
 
 ---
 
