@@ -13,11 +13,14 @@ React로 웹 화면을 만드는 프론트엔드 개발자입니다.
 
 ---
 
+Stackㅣ자주 사용하는 언어
 
-### 🔧 자주 사용하는 언어 | Most Used Languages
-> GitHub의 공개 저장소 기준으로 가장 많이 사용한 언어입니다.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yk070201e&layout=compact&theme=tokyonight)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![React Query](https://img.shields.io/badge/React_Query-20232A?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![Zustand](https://img.shields.io/badge/Zustand-20232A?style=for-the-badge)
+![SCSS Modules](https://img.shields.io/badge/SCSS_Modules-20232A?style=for-the-badge&logo=sass&logoColor=CC6699)
 
 ---
 
