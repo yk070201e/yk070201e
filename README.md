@@ -13,7 +13,7 @@ React로 웹 화면을 만드는 프론트엔드 개발자입니다.
 
 ---
 
-Stackㅣ자주 사용하는 언어
+Stackㅣ주로 사용하는 기술
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -24,12 +24,19 @@ Stackㅣ자주 사용하는 언어
 
 ---
 
-### 📁 대표 프로젝트 | Pinned Projects
+Top Languagesㅣ저장소 언어 통계
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=yk070201e&layout=compact&theme=tokyonight)
+
+---
+
+대표 프로젝트 | Pinned Projects
 
 [![Portfolio Site](https://img.shields.io/badge/포트폴리오_사이트-바로가기-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://yk070201e-portfolio.vercel.app/)
 
 ---
-### 📫 연락처 ㅣ Contact Me
+
+연락처 ㅣ Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yk._.070201e)<br>
 ![Discord](https://img.shields.io/badge/Discord-yk._.070201e-5865F2?style=for-the-badge&logo=discord&logoColor=white)<br>
 [![Gmail](https://img.shields.io/badge/yk070201e@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)<br>
