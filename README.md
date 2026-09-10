@@ -30,7 +30,7 @@ Top Languagesㅣ저장소 언어 통계
 
 ---
 
-대표 프로젝트 | Pinned Projects
+Projects | 참여한 프로젝트 모두 보기
 
 [![Portfolio Site](https://img.shields.io/badge/포트폴리오_사이트-바로가기-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://yk070201e-portfolio.vercel.app/)
 
